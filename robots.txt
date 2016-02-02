@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: http://localhost:2387/sitemap.xml
+Sitemap: http://0.0.0.0:2387/sitemap.xml
 Disallow: /ghost/
